@@ -1,0 +1,15 @@
+.style_div{
+background-color: rgb(17, 221, 248);
+border-radius: 5px;
+float: none;
+margin-top: 20px;
+box-shadow: 5px 10px 3000px rgb(255, 255, 255);
+}
+
+body{
+    background-color:blue;
+}
+
+#tv{
+    height: 50%;
+}
